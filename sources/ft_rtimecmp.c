@@ -33,4 +33,3 @@ int             ft_rctimecmp(void *file1, void *file2)
         f1->stats.st_ctime - f2->stats.st_ctime :
         ft_rctimecmp(file1, file2));
 }
-
