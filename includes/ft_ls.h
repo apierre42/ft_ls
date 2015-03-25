@@ -7,3 +7,5 @@ typedef struct			s_file
 	char			lenname[MAXLEN];
 	struct stats		stats;
 }				t_file;
+
+#endif
